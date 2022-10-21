@@ -49,10 +49,10 @@
 
 - 全局导入
 
-    import StudyUI from 'panda-ui'
-    import 'panda-ui/dist/panda-ui.css'
+    import KingdomUI from 'kingdom-ui'
+    import 'kingdom-ui/dist/kingdom-ui.css'
     
-    Vue.use(PandaUI)
+    Vue.use(KingdomUI)
 
 - 使用组件
 
@@ -102,12 +102,12 @@
 使用vue-cli脚手架快速搭建一个vue项目
 
     // 选择scss babel 和 eslint
-    vue create panda-ui
+    vue create kingdom-ui
     
 
 启动项目
 
-    cd panda-ui
+    cd kingdom-ui
     yarn serve
     
 
